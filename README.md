@@ -1,24 +1,14 @@
-# README
+# HOMEPAGE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### HOMEPAGE - SPECIFICATION
 
-Things you may want to cover:
+* ruby 2.6.3
+* rails 5.2.6
+* sqlite
 
-* Ruby version
 
-* System dependencies
+### HOMEPAGE - INSTALLATION
+    > bundle install
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### HOMEPAGE - TEST
+    > rspec spec
